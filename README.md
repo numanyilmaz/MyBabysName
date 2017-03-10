@@ -1,5 +1,5 @@
 # MyBabysName
-This repo is created before my daughter born.
+This project has been completed before my daughter was born.
 
 nbviewer version of the book is [here.][1]
 
