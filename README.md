@@ -12,6 +12,7 @@ nbviewer version of the notebook is [here.][1]
 Brandon Rhodes's Pandas Tutorial is very helpful and teaches the core features of Pandas library.
 
 Tutorial: https://www.youtube.com/watch?v=5JnMutdy6Fw
+
 Github: https://github.com/brandon-rhodes/pycon-pandas-tutorial
 
 ### License
